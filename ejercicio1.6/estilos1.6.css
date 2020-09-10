@@ -1,0 +1,14 @@
+.oculto{
+    display: none;
+}
+
+/* mouse tracker */
+img{
+    position: fixed;
+}
+body{
+    height: 100vh;
+}
+img{
+    cursor: none;
+}
